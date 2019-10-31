@@ -5,11 +5,6 @@
 //  virtual functions to implement a Stack and Queue
 //  using the stanfard interface.
 //
-// What's on your mind about this lab?
-//  I was not too sure if I had to just use one standard interface,
-//  but I did my best to create overloaded virtual functions to represent
-//  the actual interface for each type (List, Stack, and Queue)
-//
 // Author: Jason Yoon
 //
 // Date: 7/11/2018
